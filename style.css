@@ -1,9 +1,8 @@
 @font-face {
-    font-family:'Recursive',monospace;
-    src: url(https://github.com/unsungNovelty/firefox-font-face-issue-test/blob/main/RecursiveSansCslSt-SmBdItalic.woff2) format('woff2');
+    font-family:'Recursive';
+    src: url("./RecursiveSansCslSt-SmBdItalic.woff2") format('woff2');
     font-weight:normal;
     font-style:normal;
-
 }
 
 h1, h2 {
